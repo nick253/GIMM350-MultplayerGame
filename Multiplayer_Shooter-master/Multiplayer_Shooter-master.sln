@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer_Shooter-master", "Multiplayer_Shooter-master.csproj", "{54F1AFAC-3068-19AF-1E43-C8D3B4840DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer_Shooter-master.Editor", "Multiplayer_Shooter-master.Editor.csproj", "{038B8BED-4D31-75AA-5B61-7FA856CC1D00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F1AFAC-3068-19AF-1E43-C8D3B4840DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F1AFAC-3068-19AF-1E43-C8D3B4840DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F1AFAC-3068-19AF-1E43-C8D3B4840DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F1AFAC-3068-19AF-1E43-C8D3B4840DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038B8BED-4D31-75AA-5B61-7FA856CC1D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038B8BED-4D31-75AA-5B61-7FA856CC1D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038B8BED-4D31-75AA-5B61-7FA856CC1D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038B8BED-4D31-75AA-5B61-7FA856CC1D00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B49830-6F0D-4A07-9928-7A7B23DEBC8E}
+	EndGlobalSection
+EndGlobal
